@@ -18,10 +18,10 @@
   
   /* Container */
   .container {
-    background: rgba(10, 65, 82, 0.9);
+    background: rgba(21, 79, 97, 0.9);
     padding: 30px;
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(12, 12, 12, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
     max-width: 500px;
     width: 100%;
@@ -38,7 +38,7 @@
   
   /* Buttons */
   button {
-    background: #374ec2;
+    background: #4c63d8;
     color: rgb(252, 236, 236);
     border: none;
     cursor: pointer;
@@ -46,7 +46,7 @@
   }
   
   button:hover {
-    background: #171f51;
+    background: #3947a3;
   }
   
   /* Lists */
@@ -55,7 +55,7 @@
   }
   
   li {
-    background: rgb(11, 1, 38);
+    background: rgb(134, 102, 216);
     padding: 10px;
     margin: 5px 0;
     border-radius: 5px;
