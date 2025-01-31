@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5001/api"; // Update base URL
+const API_URL = "https://project-3-y4of.onrender.com/api"; // Update base URL
 
 // Create axios instance with default config
 const api = axios.create({
