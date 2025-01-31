@@ -10,7 +10,7 @@ const Signup = ({ onSignup, showLogin }) => {
   const handleSignup = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:5001/api/users/signup', {
+      const response = await axios.post('https://project-3-y4of.onrender.com/api/users/signup', {
         name,
         email,
         password
